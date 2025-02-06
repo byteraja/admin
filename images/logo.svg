@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Background shape - made slightly larger -->
+  <rect x="10" y="5" width="280" height="90" rx="45" fill="#000000"/>
+  
+  <!-- Raja text - repositioned and scaled -->
+  <path d="M 45 30 
+           L 45 70 
+           M 45 30 
+           C 45 30, 75 30, 75 45 
+           C 75 60, 45 60, 45 50
+           L 75 70" 
+        stroke="#FFFFFF" 
+        stroke-width="4.5" 
+        fill="none"
+        stroke-linecap="round"/>
+        
+  <!-- a -->
+  <path d="M 85 70 
+           C 85 50, 105 50, 105 60
+           C 105 70, 85 70, 85 60
+           L 85 70"
+        stroke="#FFFFFF" 
+        stroke-width="4.5" 
+        fill="none"
+        stroke-linecap="round"/>
+        
+  <!-- j -->
+  <path d="M 115 40
+           L 115 75
+           C 115 82, 110 85, 105 83"
+        stroke="#FFFFFF" 
+        stroke-width="4.5" 
+        fill="none"
+        stroke-linecap="round"/>
+  <circle cx="115" cy="35" r="2.5" fill="#FFFFFF"/>
+  
+  <!-- a -->
+  <path d="M 125 70 
+           C 125 50, 145 50, 145 60
+           C 145 70, 125 70, 125 60
+           L 125 70"
+        stroke="#FFFFFF" 
+        stroke-width="4.5" 
+        fill="none"
+        stroke-linecap="round"/>
+        
+  <!-- Singh text - adjusted position -->
+  <!-- S -->
+  <path d="M 175 40 
+           C 188 40, 198 40, 198 52
+           C 198 64, 165 64, 165 76
+           C 165 88, 188 88, 198 76" 
+        stroke="#FFFFFF" 
+        stroke-width="4.5" 
+        fill="none"
+        stroke-linecap="round"/>
+        
+  <!-- i -->
+  <line x1="208" y1="45" x2="208" y2="70" 
+        stroke="#FFFFFF" 
+        stroke-width="4.5"
+        stroke-linecap="round"/>
+  <circle cx="208" cy="35" r="2.5" fill="#FFFFFF"/>
+  
+  <!-- n -->
+  <path d="M 218 70 
+           L 218 50
+           C 218 50, 238 50, 238 60
+           L 238 70"
+        stroke="#FFFFFF" 
+        stroke-width="4.5" 
+        fill="none"
+        stroke-linecap="round"/>
+        
+  <!-- g -->
+  <path d="M 248 70 
+           C 248 50, 268 50, 268 60
+           C 268 70, 248 70, 248 60
+           L 248 85
+           C 248 90, 243 92, 238 90"
+        stroke="#FFFFFF" 
+        stroke-width="4.5" 
+        fill="none"
+        stroke-linecap="round"/>
+</svg>
